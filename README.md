@@ -2,4 +2,4 @@
 
 Responsive hero image parallax scroll with HTML, JS, CSS
 
-![](gif.gif)
+![](src/gif.gif)
